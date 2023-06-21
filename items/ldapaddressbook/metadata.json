@@ -1,0 +1,14 @@
+{
+	"name": "LDAP address book",
+	"version": "1.0",
+	"release_date": "2023-06-15",
+	"license": "MIT",
+	"price_usd": "0",
+	"download_url": "https://github.com/arikurumo/ldap-address-book---bludit-plugin/archive/refs/heads/main.zip",
+	"demo_url": "",
+	"information_url": "https://github.com/arikurumo/ldap-address-book---bludit-plugin",
+	"description": "Bludit plugin for create address book from LDAP directory.",
+	"features": {
+	},
+	"author_username": "arikurumo"
+}
